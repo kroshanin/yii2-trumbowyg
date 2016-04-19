@@ -1,5 +1,5 @@
 {
-    "name": "artkost/yii2-trumbowyg",
+    "name": "kroshanin/yii2-trumbowyg",
     "description": "The Trumbowyg WYSIWYG Editor widget for yii2 framework",
     "type": "yii2-extension",
     "keywords": [
