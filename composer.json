@@ -4,29 +4,18 @@
     "type": "yii2-extension",
     "keywords": [
         "yii2",
-        "yii 2",
         "trumbowyg",
         "wysiwyg",
         "widget"
     ],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Nikolay Kostyurin",
-            "email": "nikolay@artkost.ru"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/artkost/yii2-trumbowyg/issues?state=open",
-        "source": "https://github.com/artkost/yii2-trumbowyg"
-    },
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "bower-asset/trumbowyg": "~2.0"
     },
     "autoload": {
         "psr-4": {
-            "artkost\\trumbowyg\\": ""
+            "kroshanin\\trumbowyg\\": ""
         }
     }
 }
